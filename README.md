@@ -1,6 +1,6 @@
 # Sample Spring Boot Application
 
-![GitHub contributors](https://img.shields.io/github/contributors/vasanthpandian/spring-boot-demo.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/vasanthpandian/spring-boot-demo.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/vasanthpandian/spring-boot-demo.svg)
 
 It is a sample microservice developed using springboot which exposes REST APIs to perform below operations.
 - Create User
