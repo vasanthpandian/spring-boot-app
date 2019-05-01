@@ -6,4 +6,4 @@ It is a sample microservice devloped using springboot which exposes REST APIs to
 - Show User
 - Delete User
 
-[/ms-user-service.postman_collection.json] Can be used to test the APIs using Postman
+[Postman Collection](/ms-user-service.postman_collection.json) can be used to test the APIs using Postman
