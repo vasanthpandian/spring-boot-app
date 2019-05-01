@@ -5,6 +5,8 @@ It is a sample microservice developed using springboot which exposes REST APIs t
 - Update User
 - Show User
 - Delete User
+- Show all Users
+- Delete all Users
 
 ## REST APIs
 - /api/user/show-all - GET
@@ -12,6 +14,8 @@ It is a sample microservice developed using springboot which exposes REST APIs t
 - /api/user/update/{user-id} - PUT
 - /api/user/delete/{user-id} - DELETE
 - /api/user/create - POST
+
+[Postman Collection](/user-service.postman_collection.json) can be used to test the APIs using Postman
 
 ## TODOs
 - Eureka
@@ -22,3 +26,5 @@ It is a sample microservice developed using springboot which exposes REST APIs t
 - Zuul
 - Basic Auth
 - OAuth
+
+
