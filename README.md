@@ -1,6 +1,6 @@
 # Sample Spring Boot Application
 
-[![Build Status](https://travis-ci.com/vasanthpandian/spring-boot-demo.svg?branch=master)](https://travis-ci.com/vasanthpandian/spring-boot-demo)
+![GitHub contributors](https://img.shields.io/github/contributors/vasanthpandian/spring-boot-demo.svg)
 
 It is a sample microservice developed using springboot which exposes REST APIs to perform below operations.
 - Create User
