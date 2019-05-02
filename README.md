@@ -9,7 +9,7 @@ You can close this repo using the below commands
 ```
 git clone https://github.com/vasanthpandian/spring-boot-app.git
 ```
-In STS, click File->Import->Existing Projects into Workspace. In the "Select root directory" field, click "Browse" and navigate to the root directory of your Sagan repository clone and click "Open"
+In STS, click File -> Import -> Existing Projects into Workspace. In the "Select root directory" field, click "Browse" and navigate to the root directory of your Sagan repository clone and click "Open"
 
 ## Available REST APIs
 - /api/user/show-all - GET
