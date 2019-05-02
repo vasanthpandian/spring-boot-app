@@ -2,13 +2,14 @@
 
 ![GitHub contributors](https://img.shields.io/github/contributors/vasanthpandian/spring-boot-demo.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/vasanthpandian/spring-boot-demo.svg)
 
-It is a sample microservice developed using springboot which exposes REST APIs to perform below operations.
-- Create User
-- Update User
-- Show User
-- Delete User
-- Show all Users
-- Delete all Users
+It is a sample microservice developed using springboot framework and it exposes REST APIs to perform simple user management operations like creating/deleting/updating/fetching users.
+
+## Getting Started
+You can close this repo using the below commands
+```
+git clone https://github.com/vasanthpandian/spring-boot-app.git
+```
+In STS, click File->Import->Existing Projects into Workspace. In the "Select root directory" field, click "Browse" and navigate to the root directory of your Sagan repository clone and click "Open"
 
 ## REST APIs
 - /api/user/show-all - GET
