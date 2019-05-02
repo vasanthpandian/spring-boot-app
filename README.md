@@ -20,7 +20,7 @@ It is a sample microservice developed using springboot which exposes REST APIs t
 [Postman Collection](/user-service.postman_collection.json) can be used to test the APIs using Postman
 
 ## TODOs
-- Eureka
+- [x] Eureka
 - Config Server
 - Swagger
 - Zipkin
