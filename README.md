@@ -21,12 +21,12 @@ It is a sample microservice developed using springboot which exposes REST APIs t
 
 ## TODOs
 - [x] Eureka
-- [] Config Server
-- [] Swagger
-- [] Zipkin
-- [] Hystrix
-- [] Zuul
-- [] Basic Auth
-- [] OAuth
+- [ ] Config Server
+- [ ] Swagger
+- [ ] Zipkin
+- [ ] Hystrix
+- [ ] Zuul
+- [ ] Basic Auth
+- [ ] OAuth
 
 
